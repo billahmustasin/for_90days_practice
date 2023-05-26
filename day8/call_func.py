@@ -1,0 +1,1 @@
+from day8.linear_search_func import linear_search
